@@ -10,7 +10,7 @@
 
     <properties>
         <groovy.version>2.4.3</groovy.version>
-        <groovy-eclipse-compiler.version>2.9.2-01</groovy-eclipse-compiler.version>
+        <groovy-eclipse-compiler.version>2.9.1-01</groovy-eclipse-compiler.version>
     </properties>
     <!-- Dependencies for test execution and runtime -->
     <dependencies>
